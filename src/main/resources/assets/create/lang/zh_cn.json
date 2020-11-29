@@ -1068,9 +1068,9 @@
 	"block.create.encased_fluid_pipe.tooltip.summary":"一种由 _铜机壳_ 包裹的 _流体管道_。",
 
 	"block.create.copper_valve_handle.tooltip":"COPPER VALVE HANDLE",
-	"block.create.copper_valve_handle.tooltip.summary":"一种需要玩家互动的旋转动力的精准来源。小心别把自己累垮了！",
+	"block.create.copper_valve_handle.tooltip.summary":"一种可以精确地输出旋转动力的装置，需要与玩家互动才能工作。小心别把自己累垮了！",
 	"block.create.copper_valve_handle.tooltip.condition1":"当使用时",
-	"block.create.copper_valve_handle.tooltip.behaviour1":"为相连的装置提供 _旋转动力_ 。_潜行使用_ 以倒转阀门。",
+	"block.create.copper_valve_handle.tooltip.behaviour1":"为相连的装置提供 _旋转动力_ 。_潜行使用_ 以倒转阀门旋转方向。",
 
 	"block.create.seat.tooltip":"SEAT",
 	"block.create.seat.tooltip.summary":"坐下来享受旅程吧！坐垫将会把玩家固定在一个移动装置上。也可以用来作为居家装饰，毕竟他有许多颜色。",
@@ -1091,9 +1091,9 @@
 	"item.create.blaze_cake.tooltip.summary":"对辛勤劳作的 _烈焰人_ 的美味款待。让他们兴奋起来吧！",
 
 	"item.create.empty_blaze_burner.tooltip":"EMPTY BLAZE BURNER",
-	"item.create.empty_blaze_burner.tooltip.summary":"你火热的朋友的一个小小的铁质的家。我相信你会好好利用他们的！",
+	"item.create.empty_blaze_burner.tooltip.summary":"属于你火热朋友的一个小小的铁质的家。我相信你会好好利用他们的！",
 	"item.create.empty_blaze_burner.tooltip.condition1":"当对着 _烈焰人_ 或者 _烈焰人刷怪笼_ 使用时",
-	"item.create.empty_blaze_burner.tooltip.behaviour1":"将会把烈焰人 _捕获_ ",
+	"item.create.empty_blaze_burner.tooltip.behaviour1":"将会把烈焰人 _捕获_ 到物品中。",
 
 	"block.create.fluid_pipe.tooltip":"FLUID PIPE",
 	"block.create.fluid_pipe.tooltip.summary":"用于移动 _流体_ 。需要一个 _动力泵_ 来提供动力。",

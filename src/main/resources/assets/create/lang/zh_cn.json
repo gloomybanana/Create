@@ -607,7 +607,7 @@
 	"create.generic.unit.rpm":"RPM",
 	"create.generic.unit.stress":"su",
 	"create.generic.unit.degrees":"°",
-	"create.generic.unit.millibuckets":"%1$smB",
+	"create.generic.unit.millibuckets":"%1$s mB",
 	"create.generic.clockwise":"顺时针方向",
 	"create.generic.counter_clockwise":"逆时针方向",
 

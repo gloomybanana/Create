@@ -614,7 +614,7 @@
 	"create.action.confirm":"确认",
 	"create.action.abort":"退出",
 	"create.action.saveToFile":"保存",
-	"create.action.discard":"丢弃",
+	"create.action.discard":"放弃",
 
 	"create.keyinfo.toolmenu":"工具菜单",
 	"create.keyinfo.scrollup":"（游戏中）向上鼠标滚轮",

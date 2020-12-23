@@ -1097,7 +1097,7 @@
 	"create.hint.empty_bearing.title": "更新轴承",
 	"create.hint.empty_bearing": "_空手右键_轴承来_添加_你新建造的结构。",
 	"create.hint.full_deployer.title": "机械手物品溢出",
-	"create.hint.full_deployer": "_机械手_包含_过剩的物品_需要被_提取._使用_料斗,__漏斗_或其他方法将溢出释放出来。",
+	"create.hint.full_deployer": "_机械手_包含_过剩的物品_需要被_提取._使用_料斗，__漏斗_或其他方法将溢出释放出来。",
 
 	"create.gui.config.overlay1": "Hi :)",
 	"create.gui.config.overlay2": "这是一个实例层",
@@ -1152,7 +1152,7 @@
 	"block.create.metal_bracket.tooltip.summary": "坚固的工业材料，用于_装饰_传动杆_，_齿轮_和_管道_。",
 
 	"block.create.andesite_casing.tooltip": "安山机壳",
-	"block.create.andesite_casing.tooltip.summary": "具有多种用途的简单机壳，可用于加固并装饰_传动杆_,_传送带_",
+	"block.create.andesite_casing.tooltip.summary": "具有多种用途的简单机壳，可用于加固并装饰_传动杆_，_传送带_",
 
 	"block.create.andesite_funnel.tooltip": "安山漏斗",
 	"block.create.andesite_funnel.tooltip.summary": "一种常用的传输设备，配合各种物流结构来传输物品，可由_红石信号_控制。",
@@ -1326,7 +1326,7 @@
 	"item.create.tree_fertilizer.tooltip": "树木肥料",
 	"item.create.tree_fertilizer.tooltip.summary": "适用于常见树木的快速肥料",
 	"item.create.tree_fertilizer.tooltip.condition1": "在树苗上使用时",
-	"item.create.tree_fertilizer.tooltip.behaviour1": "无论_生长时间_多少,直接长大",
+	"item.create.tree_fertilizer.tooltip.behaviour1": "无论_生长时间_多少，直接长大",
 
 	"item.create.deforester.tooltip": "树林毁灭者",
 	"item.create.deforester.tooltip.summary": "_树林毁灭者_，能够瞬间砍倒一棵树",
@@ -1354,7 +1354,7 @@
 	"item.create.empty_schematic.tooltip.summary": "可作为合成材料或在_蓝图桌_使用",
 
 	"item.create.schematic.tooltip": "蓝图",
-	"item.create.schematic.tooltip.summary": "可以放置在世界中的结构,根据需要放置全息图，并使用_蓝图加农炮_进行构建。",
+	"item.create.schematic.tooltip.summary": "可以放置在世界中的结构，根据需要放置全息图，并使用_蓝图加农炮_进行构建。",
 	"item.create.schematic.tooltip.condition1": "当全息图存在时",
 	"item.create.schematic.tooltip.behaviour1": "可以使用屏幕上的工具定位",
 	"item.create.schematic.tooltip.control1": "当潜行右键时",
@@ -1421,12 +1421,12 @@
 	"item.create.belt_connector.tooltip": "传送带",
 	"item.create.belt_connector.tooltip.summary": "用_传送带_连接两个_传动杆_，连接的传动杆将具有完全相同的转速和方向。传送带可以_传输实体_和_物品_。",
 	"item.create.belt_connector.tooltip.control1": "当右键传动杆时",
-	"item.create.belt_connector.tooltip.action1": "选择传动杆作为传送带的传输点,选定的两个传动杆都必须相互_垂直_，_水平_或_对角平齐_。",
+	"item.create.belt_connector.tooltip.action1": "选择传动杆作为传送带的传输点，选定的两个传动杆都必须相互_垂直_，_水平_或_对角平齐_。",
 	"item.create.belt_connector.tooltip.control2": "当潜行右键时",
 	"item.create.belt_connector.tooltip.action2": "_重置_传送带的第一个选定位置",
 
 	"item.create.goggles.tooltip": "工程师护目镜",
-	"item.create.goggles.tooltip.summary": "一副特殊的眼镜,能够让你看见_动能_的信息。",
+	"item.create.goggles.tooltip.summary": "一副特殊的眼镜，能够让你看见_动能_的信息。",
 	"item.create.goggles.tooltip.condition1": "当装备时",
 	"item.create.goggles.tooltip.behaviour1": "将会展示单个动能元件的_速度_、_应力_等信息",
 	"item.create.goggles.tooltip.condition2": "当看向仪表时",
@@ -1450,7 +1450,7 @@
 	"block.create.encased_fan.tooltip.condition1": "当被红石信号激活后",
 	"block.create.encased_fan.tooltip.behaviour1": "可将鼓风机下方的_热能_（火、岩浆等）转化成_动能_，需要将鼓风机向下摆放",
 	"block.create.encased_fan.tooltip.condition2": "当旋转时",
-	"block.create.encased_fan.tooltip.behaviour2": "根据旋转方向_推动_或者_吸引_实体,强度和速度取决于给予的动力。",
+	"block.create.encased_fan.tooltip.behaviour2": "根据旋转方向_推动_或者_吸引_实体，强度和速度取决于给予的动力。",
 	"block.create.encased_fan.tooltip.condition3": "当气流通过火、水、岩浆时",
 	"block.create.encased_fan.tooltip.behaviour3": "在_被吹出_的水，火，岩浆粒子中放置物品会获得相应产物(_建议配合jei查看_)。",
 
@@ -1463,7 +1463,7 @@
 	"block.create.hand_crank.tooltip.behaviour1": "向依附的结构提供动力，_潜行_时将会提供_反向_的旋转动力",
 
 	"block.create.cuckoo_clock.tooltip": "布谷鸟闹钟",
-	"block.create.cuckoo_clock.tooltip.summary": "精致的工艺品,能够记录时间",
+	"block.create.cuckoo_clock.tooltip.summary": "精致的工艺品，能够记录时间",
 	"block.create.cuckoo_clock.tooltip.condition1": "当旋转时",
 	"block.create.cuckoo_clock.tooltip.behaviour1": "显示_当前时间_并且一天会咕咕_两次_。中午咕咕一次，黄昏可以睡觉的时候咕咕一次 ",
 
@@ -1483,7 +1483,7 @@
 	"block.create.crushing_wheel.tooltip.behaviour1": "_粉碎物品_并获得相应产物(建议配合jei查看)",
 
 	"block.create.mechanical_press.tooltip": "动力辊压机",
-	"block.create.mechanical_press.tooltip.summary": "一个强力的活塞式机器,用于压制其下方的物品。",
+	"block.create.mechanical_press.tooltip.summary": "一个强力的活塞式机器，用于压制其下方的物品。",
 	"block.create.mechanical_press.tooltip.condition1": "当提供_红石信号_时",
 	"block.create.mechanical_press.tooltip.behaviour1": "_压制_其下方的物品。",
 	"block.create.mechanical_press.tooltip.condition2": "在传送带上方时",
@@ -1507,16 +1507,16 @@
 	"block.create.reinforced_rail.tooltip.summary": "牢固稳定的铁轨，不需要_方块支撑_。",
 
 	"block.create.mechanical_mixer.tooltip": "动力搅拌器",
-	"block.create.mechanical_mixer.tooltip.summary": "一种能够动态进行搅拌的机器,需要恒定且够快的速度，并且下方需要放置_工作盆_(中间需要一格高)",
+	"block.create.mechanical_mixer.tooltip.summary": "一种能够动态进行搅拌的机器，需要恒定且够快的速度，并且下方需要放置_工作盆_(中间需要一格高)",
 	"block.create.mechanical_mixer.tooltip.condition1": "当位于工作盆上方",
-	"block.create.mechanical_mixer.tooltip.behaviour1": "只要_工作盆_中有满足配方的物品,将自动进行搅拌",
+	"block.create.mechanical_mixer.tooltip.behaviour1": "只要_工作盆_中有满足配方的物品，将自动进行搅拌",
 	"block.create.mechanical_mixer.tooltip.control1": "被红石激活时",
 	"block.create.mechanical_mixer.tooltip.action1": "停止搅拌，试用于紧急时刻！",
 
 	"block.create.mechanical_crafter.tooltip": "动力合成器",
 	"block.create.mechanical_crafter.tooltip.summary": "一种依靠_动能_的_自动_合成台。根据想要合成物品的_合成表_来摆放_相应数量_的机械制造机，并且用扳手调整物品在制造机里的_传动方向_以让他们合在一起后被输出",
 	"block.create.mechanical_crafter.tooltip.condition1": "当旋转时",
-	"block.create.mechanical_crafter.tooltip.behaviour1": "当机器中_所有_的物品槽有物品时,将会启动所有的制造机来工作。",
+	"block.create.mechanical_crafter.tooltip.behaviour1": "当机器中_所有_的物品槽有物品时，将会启动所有的制造机来工作。",
 	"block.create.mechanical_crafter.tooltip.condition2": "被红石激活时",
 	"block.create.mechanical_crafter.tooltip.behaviour2": "强制启动当前网格中所有给定的_材料_的_合成_",
 	"block.create.mechanical_crafter.tooltip.control1": "当在机器前方使用扳手时",
@@ -1525,9 +1525,9 @@
 	"block.create.mechanical_crafter.tooltip.action2": "连接相邻的制造机的物品栏，这样_相同_的物品就会自动进入所有相互连接的制造机",
 
 	"block.create.furnace_engine.tooltip": "熔炉引擎",
-	"block.create.furnace_engine.tooltip.summary": "一种强力的_旋转动能_的来源,但是需要_正在工作_的_熔炉_(三种熔炉都可以)",
+	"block.create.furnace_engine.tooltip.summary": "一种强力的_旋转动能_的来源，但是需要_正在工作_的_熔炉_(三种熔炉都可以)",
 	"block.create.furnace_engine.tooltip.condition1": "当连接正在燃烧的熔炉",
-	"block.create.furnace_engine.tooltip.behaviour1": "将会带动_相连_的_飞轮_(需要间隔一格),用高炉速度更快",
+	"block.create.furnace_engine.tooltip.behaviour1": "将会带动_相连_的_飞轮_(需要间隔一格)，用高炉速度更快",
 
 	"block.create.flywheel.tooltip": "飞轮",
 	"block.create.flywheel.tooltip.summary": "一种大型的金属轮，能将_熔炉引擎_提供的动能稳定化输出，需要与_熔炉引擎_间隔一个方块",
@@ -1544,7 +1544,7 @@
 	"block.create.portable_fluid_interface.tooltip": "移动流体接口",
 	"block.create.portable_fluid_interface.tooltip.summary": "为动力活塞、装配矿车、旋转轴承、滑轮_等移动结构_设计的_流体接口_，_移动结构_和_固定结构_之间的流体交换站，两个会面的接口必须彼此面对且彼此隔开1-2个方块。",
 	"block.create.portable_fluid_interface.tooltip.condition1": "装配在移动结构上时",
-	"block.create.portable_fluid_interface.tooltip.behaviour1": "移动到能够满足与_固定结构_上的_移动式流体接口_对接的条件后,移动结构会_短暂地停下_，开始对接，并直接与_移动结构上的_流体储罐_交互，进行流体的_导入导出_。",
+	"block.create.portable_fluid_interface.tooltip.behaviour1": "移动到能够满足与_固定结构_上的_移动式流体接口_对接的条件后，移动结构会_短暂地停下_，开始对接，并直接与_移动结构上的_流体储罐_交互，进行流体的_导入导出_。",
 	"block.create.portable_fluid_interface.tooltip.condition2": "被红石激活时",
 	"block.create.portable_fluid_interface.tooltip.behaviour2": "立即断开任何活动的连接。",
 
@@ -1554,7 +1554,7 @@
 	"block.create.rotation_speed_controller.tooltip.behaviour1": "将输入的旋转动能改变速度后，传递给连接的大齿轮，连接的大齿轮要放在上方。",
 
 	"block.create.mechanical_piston.tooltip": "动力活塞",
-	"block.create.mechanical_piston.tooltip.summary": "活塞的高级版本，使用_旋转动能_精确地移动其连接的方块，背面可放置活塞杆延长活塞范围，没有活塞杆将不会工作,使用_底盘_或者_粘液块_可以移动多行方块。",
+	"block.create.mechanical_piston.tooltip.summary": "活塞的高级版本，使用_旋转动能_精确地移动其连接的方块，背面可放置活塞杆延长活塞范围，没有活塞杆将不会工作，使用_底盘_或者_粘液块_可以移动多行方块。",
 	"block.create.mechanical_piston.tooltip.condition1": "推拉活塞时",
 	"block.create.mechanical_piston.tooltip.behaviour1": "活塞的_速度_和_方向_与所接受_转速_的_大小_以及_方向_相关。",
 
@@ -1598,7 +1598,7 @@
 	"block.create.cart_assembler.tooltip.condition1": "当被红石信号激活时",
 	"block.create.cart_assembler.tooltip.behaviour1": "将装配站上连接的结构组装到矿车上，并送矿车上路",
 	"block.create.cart_assembler.tooltip.condition2": "没有红石信号时",
-	"block.create.cart_assembler.tooltip.behaviour2": "将经过的矿车上的结构_实体化_,并停住矿车。",
+	"block.create.cart_assembler.tooltip.behaviour2": "将经过的矿车上的结构_实体化_，并停住矿车。",
 	"block.create.cart_assembler.tooltip.control1": "放置于轨道上时",
 	"block.create.cart_assembler.tooltip.action1": "红石激活时装配经过的矿车，未激活时卸载经过的矿车。",
 	"block.create.cart_assembler.tooltip.control2": "放置于充能铁轨上时",
@@ -1637,7 +1637,7 @@
 	"block.create.mechanical_drill.tooltip": "动力钻头",
 	"block.create.mechanical_drill.tooltip.summary": "用于_破坏方块_的装置，可以被_动力活塞_和_动力轴承_等带动",
 	"block.create.mechanical_drill.tooltip.condition1": "被供能时",
-	"block.create.mechanical_drill.tooltip.behaviour1": "_原地_破坏正前方的方块,且_伤害_在一定范围内生物及玩家。",
+	"block.create.mechanical_drill.tooltip.behaviour1": "_原地_破坏正前方的方块，且_伤害_在一定范围内生物及玩家。",
 	"block.create.mechanical_drill.tooltip.condition2": "当移动时",
 	"block.create.mechanical_drill.tooltip.behaviour2": "横向或纵向破坏其所_碰到_的方块。",
 
@@ -1706,7 +1706,7 @@
 	"block.create.deployer.tooltip.condition1": "被供能时",
 	"block.create.deployer.tooltip.behaviour1": "机械手可以最多伸长_两个方块_的距离",
 	"block.create.deployer.tooltip.condition2": "当使用扳手时",
-	"block.create.deployer.tooltip.behaviour2": "将会启用拳头模式,在拳头模式之下，机械臂将会试图使用手中的物品_破坏方块_，或者_攻击实体_。",
+	"block.create.deployer.tooltip.behaviour2": "将会启用拳头模式，在拳头模式之下，机械臂将会试图使用手中的物品_破坏方块_，或者_攻击实体_。",
 	"block.create.deployer.tooltip.condition3": "过滤器指定时",
 	"block.create.deployer.tooltip.behaviour3": "除非保留的物品与过滤器匹配，否则机械手将不会激活。不匹配的物品无法插入；无法提取与过滤器匹配的保留物品。",
 

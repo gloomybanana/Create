@@ -415,14 +415,14 @@
 	"fluid.create.honey": "蜂蜜",
 	"fluid.create.milk": "牛奶",
 	"fluid.create.potion": "药水",
-	"fluid.create.tea": "开发者的茶",
+	"fluid.create.tea": "茶",
 
 	"item.create.andesite_alloy": "安山合金",
 	"item.create.attribute_filter": "属性过滤器",
 	"item.create.bar_of_chocolate": "巧克力棒棒",
 	"item.create.belt_connector": "传送带",
-	"item.create.blaze_cake": "烈焰蛋糕",
-	"item.create.blaze_cake_base": "烈焰蛋糕胚",
+	"item.create.blaze_cake": "熔岩蛋糕",
+	"item.create.blaze_cake_base": "熔岩蛋糕胚",
 	"item.create.brass_hand": "黄铜手部零件",
 	"item.create.brass_ingot": "黄铜锭",
 	"item.create.brass_nugget": "黄铜粒",
@@ -1131,13 +1131,13 @@
 	"_": "->------------------------]  Item Descriptions  [------------------------<-",
 
 	"item.create.example_item.tooltip": "EXAMPLE ITEM (just a marker that this tooltip exists)",
-	"item.create.example_item.tooltip.summary": "A brief description of the item._Underscores_highlight a term。",
+	"item.create.example_item.tooltip.summary": "A brief description of the item._Underscores_highlight a term.",
 	"item.create.example_item.tooltip.condition1": "When this",
 	"item.create.example_item.tooltip.behaviour1": "Then this item does this。(behaviours show on shift)",
 	"item.create.example_item.tooltip.condition2": "And When this",
 	"item.create.example_item.tooltip.behaviour2": "You can add as many behaviours as you like",
 	"item.create.example_item.tooltip.control1": "When Ctrl pressed",
-	"item.create.example_item.tooltip.action1": "These controls are displayed。",
+	"item.create.example_item.tooltip.action1": "These controls are displayed.",
 
 	"block.create.andesite_encased_shaft.tooltip": "安山岩加壳传动杆",
 	"block.create.andesite_encased_shaft.tooltip.summary": "_创造模式_物品。用安山机壳包裹世界中的传动杆，机壳不会被消耗。",
@@ -1164,7 +1164,7 @@
 	"block.create.andesite_funnel.tooltip.behaviour3": "仅向下垂直传输物品，类似一个没有缓冲槽的漏斗。",
 
 	"block.create.andesite_tunnel.tooltip": "安山隧道",
-	"block.create.andesite_tunnel.tooltip.summary": "传送带的保护隧道，能让你的传送路线优雅的穿过墙壁。",
+	"block.create.andesite_tunnel.tooltip.summary": "传送带的保护隧道，能让你的传送路线优雅地穿过墙壁。",
 	"block.create.andesite_tunnel.tooltip.control1": "扳手右键侧面时",
 	"block.create.andesite_tunnel.tooltip.action1": "如果传送带隧道串联的数量达到三个或以上，可在位于中间的隧道侧面上开启关闭百叶窗。",
 
@@ -1218,10 +1218,10 @@
 	"block.create.depot.tooltip.condition1":"右键贮物台",
 	"block.create.depot.tooltip.behaviour1":"可以在_贮物台_放置或取出物品。可以与_传送带_交互的方块或装置也可以与_贮物台_交互。",
 
-	"item.create.blaze_cake.tooltip":"烈焰蛋糕",
+	"item.create.blaze_cake.tooltip":"熔岩蛋糕",
 	"item.create.blaze_cake.tooltip.summary":"对辛勤劳作的_烈焰人_的美味款待。让他们兴奋起来吧！",
 
-	"item.create.empty_blaze_burner.tooltip":"EMPTY BLAZE BURNER",
+	"item.create.empty_blaze_burner.tooltip":"空的烈焰燃烧器",
 	"item.create.empty_blaze_burner.tooltip.summary":"你火热的朋友的一个小小的铁质的家。我相信你会好好利用他们的！",
 	"item.create.empty_blaze_burner.tooltip.condition1":"当对着_烈焰人_或者_烈焰人刷怪笼_使用时",
 	"item.create.empty_blaze_burner.tooltip.behaviour1":"即可_捕获_烈焰人",
@@ -1501,7 +1501,7 @@
 	"block.create.blaze_burner.tooltip.condition1": "放置于工作盆下方时",
 	"block.create.blaze_burner.tooltip.behaviour1": "为工作盆配方_提供热量_。",
 	"block.create.blaze_burner.tooltip.condition2": "对烈焰加热器使用可燃物时",
-	"block.create.blaze_burner.tooltip.behaviour2": "_消耗_可燃物，并根据该物品在_熔炉中的燃烧时间_来延长_烈焰加热器的燃烧时间_，使用_烈焰蛋糕_投喂将提供_更高的温度_。",
+	"block.create.blaze_burner.tooltip.behaviour2": "_消耗_可燃物，并根据该物品在_熔炉中的燃烧时间_来延长_烈焰加热器的燃烧时间_，使用_熔岩蛋糕_投喂将提供_更高的温度_。",
 
 	"block.create.reinforced_rail.tooltip": "强化铁轨",
 	"block.create.reinforced_rail.tooltip.summary": "牢固稳定的铁轨，不需要_方块支撑_。",

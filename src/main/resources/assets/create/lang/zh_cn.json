@@ -648,7 +648,7 @@
 	"advancement.create.extendo_grip": "biu biu biu!",
 	"advancement.create.extendo_grip.desc": "拿到一个伸缩机械手",
 	"advancement.create.dual_extendo_grip": "biu——biu——biu——",
-	"advancement.create.dual_extendo_grip.desc": "双持伸缩机械手加长距离",
+	"advancement.create.dual_extendo_grip.desc": "双持伸缩机械手进一步加长触碰距离",
 	"advancement.create.eob": "Beta版结束",
 	"advancement.create.eob.desc": "期待未来会有更多的内容。<3",
 
@@ -658,11 +658,11 @@
 	"itemGroup.create.base": "机械动力",
 	"itemGroup.create.palettes": "机械动力建筑方块",
 
-	"death.attack.create.crush": "%1$s 被压扁了",
-	"death.attack.create.fan_fire": "%1$s 试图接受热风的洗礼",
-	"death.attack.create.fan_lava": "%1$s 在接受热风的洗礼中欲火焚身",
-	"death.attack.create.mechanical_drill": "%1$s 被钻头钻的坏掉了",
-	"death.attack.create.mechanical_saw": "%1$s 被圆锯切成了两截",
+	"death.attack.create.crush": "%1$s被压扁了",
+	"death.attack.create.fan_fire": "%1$s试图接受热风的洗礼",
+	"death.attack.create.fan_lava": "%1$s在接受热风的洗礼中欲火焚身",
+	"death.attack.create.mechanical_drill": "%1$s被钻头钻的坏掉了",
+	"death.attack.create.mechanical_saw": "%1$s被圆锯切成了两截",
 	"death.attack.create.cuckoo_clock_explosion": "%1$s 被布谷鸟钟炸得粉身碎骨",
 
 	"create.block.deployer.damage_source_name": "二五仔机械臂",
@@ -775,7 +775,7 @@
 
 	"create.terrainzapper.shiftRightClickToSet": "Shift+鼠标右键 以设置塑形类型",
 
-	"create.blockzapper.usingBlock": "使用: %1$s",
+	"create.blockzapper.usingBlock": "使用:%1$s",
 	"create.blockzapper.componentUpgrades": "组件升级:",
 	"create.blockzapper.component.body": "机体",
 	"create.blockzapper.component.amplifier": "增大",
@@ -816,8 +816,8 @@
 	"create.logistics.fluid_filter":"流体过滤器",
 	"create.logistics.firstFrequency":"频道。#1",
 	"create.logistics.secondFrequency":"频道。#2",
-	"create.logistics.filter.apply":"将过滤器应用于 %1$s。",
-	"create.logistics.filter.apply_click_again":"将过滤器应用于 %1$s，再次点击以复制数量。",
+	"create.logistics.filter.apply":"将过滤器应用于%1$s。",
+	"create.logistics.filter.apply_click_again":"将过滤器应用于%1$s，再次点击以复制数量。",
 	"create.logistics.filter.apply_count":"应用提取计数过滤。",
 
 	"create.gui.goggles.generator_stats":"产能器状态:",
@@ -830,14 +830,14 @@
 	"create.gui.stressometer.capacity":"剩余应力量",
 	"create.gui.stressometer.overstressed":"应力过载",
 	"create.gui.stressometer.no_rotation":"无旋转",
-	"create.gui.contraptions.not_fast_enough":"显然 %1$s 没有达到足够的工作转速。",
+	"create.gui.contraptions.not_fast_enough":"显然%1$s 没有达到足够的工作转速。",
 	"create.gui.contraptions.network_overstressed":"显然装置过载，减速高应力消耗的装置或者添加更多应力",
 	"create.gui.adjustable_crate.title":"板条箱",
 	"create.gui.adjustable_crate.storageSpace":"储存空间",
 	"create.gui.stockpile_switch.title":"储存开关",
 	"create.gui.stockpile_switch.invert_signal":"反转信号",
-	"create.gui.stockpile_switch.move_to_lower_at":"移至下线 %1$s%%",
-	"create.gui.stockpile_switch.move_to_upper_at":"移至上线 %1$s%%",
+	"create.gui.stockpile_switch.move_to_lower_at":"移至下线%1$s%%",
+	"create.gui.stockpile_switch.move_to_upper_at":"移至上线%1$s%%",
 	"create.gui.sequenced_gearshift.title":"可编程齿轮箱",
 	"create.gui.sequenced_gearshift.instruction":"指令",
 	"create.gui.sequenced_gearshift.instruction.turn_angle":"旋转",
@@ -853,7 +853,7 @@
 	"create.gui.sequenced_gearshift.speed.back":"一倍速, 反向",
 	"create.gui.sequenced_gearshift.speed.back_fast":"两倍速，反向",
 
-	"create.schematicAndQuill.dimensions":"蓝图尺寸: %1$sx%2$sx%3$s",
+	"create.schematicAndQuill.dimensions":"蓝图尺寸:%1$sx%2$sx%3$s",
 	"create.schematicAndQuill.firstPos":"第一个位置。",
 	"create.schematicAndQuill.secondPos":"第二个位置。",
 	"create.schematicAndQuill.noTarget":"按住Ctrl选择空气方块。",
@@ -861,7 +861,7 @@
 	"create.schematicAndQuill.title":"蓝图名：",
 	"create.schematicAndQuill.convert":"立即保存并部署",
 	"create.schematicAndQuill.fallbackName":"我的蓝图",
-	"create.schematicAndQuill.saved":"另存为 %1$s",
+	"create.schematicAndQuill.saved":"另存为%1$s",
 
 	"create.schematic.invalid":"[!] 无效的项目",
 	"create.schematic.position":"位置",
@@ -918,9 +918,9 @@
 	"create.gui.schematicTable.finished":"上传完成!",
 	"create.gui.schematicannon.title":"蓝图加农炮",
 	"create.gui.schematicannon.listPrinter":"物品清单打印机",
-	"create.gui.schematicannon.gunpowderLevel":"火药 %1$s%%",
-	"create.gui.schematicannon.shotsRemaining":"发射进度: %1$s",
-	"create.gui.schematicannon.shotsRemainingWithBackup":"备份: %1$s",
+	"create.gui.schematicannon.gunpowderLevel":"火药%1$s%%",
+	"create.gui.schematicannon.shotsRemaining":"发射进度:%1$s",
+	"create.gui.schematicannon.shotsRemainingWithBackup":"备份:%1$s",
 	"create.gui.schematicannon.optionEnabled":"当前启用",
 	"create.gui.schematicannon.optionDisabled":"当前禁用",
 	"create.gui.schematicannon.showOptions":"显示蓝图加农炮设置",
@@ -1043,26 +1043,26 @@
 	"create.tooltip.holdKeyOrKey":"按住 [%1$s] 或 [%2$s]",
 	"create.tooltip.keyShift":"Shift",
 	"create.tooltip.keyCtrl":"Ctrl",
-	"create.tooltip.speedRequirement":"需求速度: %1$s",
+	"create.tooltip.speedRequirement":"需求速度:%1$s",
 	"create.tooltip.speedRequirement.none":"无",
 	"create.tooltip.speedRequirement.medium":"适当",
 	"create.tooltip.speedRequirement.high":"快",
-	"create.tooltip.stressImpact":"应力消耗: %1$s",
+	"create.tooltip.stressImpact":"应力消耗:%1$s",
 	"create.tooltip.stressImpact.low":"低",
 	"create.tooltip.stressImpact.medium":"中",
 	"create.tooltip.stressImpact.high":"高",
 	"create.tooltip.stressImpact.overstressed":"过载",
-	"create.tooltip.capacityProvided":"应力生产量: %1$s",
+	"create.tooltip.capacityProvided":"应力生产量:%1$s",
 	"create.tooltip.capacityProvided.low":"小",
 	"create.tooltip.capacityProvided.medium":"中",
 	"create.tooltip.capacityProvided.high":"大",
 	"create.tooltip.capacityProvided.asGenerator":"(作为发生器)",
-	"create.tooltip.generationSpeed":"产生 %1$s %2$s",
-	"create.tooltip.analogStrength":"调节强度: %1$s/15",
+	"create.tooltip.generationSpeed":"产生%1$s %2$s",
+	"create.tooltip.analogStrength":"调节强度:%1$s/15",
 
-	"create.mechanical_arm.extract_from":"从 %1$s 拿取物品",
-	"create.mechanical_arm.deposit_to":"向 %1$s 存储物品",
-	"create.mechanical_arm.summary":"动力臂有 %1$s 输入以及 %2$s 输出。",
+	"create.mechanical_arm.extract_from":"从%1$s 拿取物品",
+	"create.mechanical_arm.deposit_to":"向%1$s 存储物品",
+	"create.mechanical_arm.summary":"动力臂有%1$s 输入以及 %2$s 输出。",
 	"create.mechanical_arm.points_outside_range":"%1$s 由于距离限制，选定的交互点被移除。",
 
 	"create.logistics.when_multiple_outputs_available":"当多个输出可用时",
@@ -1306,7 +1306,7 @@
 	"item.create.wand_of_symmetry.tooltip.action3": "打开_gui界面_",
 
 	"item.create.handheld_blockzapper.tooltip": "手持式方块放置器",
-	"item.create.handheld_blockzapper.tooltip.summary": "新颖的小工具,可以远距离放置或更换方块。",
+	"item.create.handheld_blockzapper.tooltip.summary": "新颖的小工具，可以远距离放置或更换方块。",
 	"item.create.handheld_blockzapper.tooltip.control1": "当左键方块时",
 	"item.create.handheld_blockzapper.tooltip.action1": "设定放置此方块。",
 	"item.create.handheld_blockzapper.tooltip.control2": "当右键方块时",
@@ -1334,19 +1334,19 @@
 	"item.create.extendo_grip.tooltip": "伸缩机械手",
 	"item.create.extendo_grip.tooltip.summary": "biubiubiu! 大幅度_增加了_使用者的_触碰距离_。",
 	"item.create.extendo_grip.tooltip.condition1": "放置于副手栏时",
-	"item.create.extendo_grip.tooltip.behaviour1": "大幅增加_主手_的触碰距离,与_主手_的伸缩机械手携同使用，可进一步增加_触碰距离_。",
+	"item.create.extendo_grip.tooltip.behaviour1": "大幅增加_主手_的触碰距离，与_主手_的伸缩机械手携同使用，可进一步增加_触碰距离_。",
 
 	"item.create.filter.tooltip": "过滤器",
 	"item.create.filter.tooltip.summary": "将物品更精确地进行_筛选分类_， 可以同时_筛选_多个物品或者将已标记的_过滤器_放在另一个_过滤器_里_嵌套_使用。",
 	"item.create.filter.tooltip.condition1": "当处于_过滤器_槽中",
-	"item.create.filter.tooltip.behaviour1": "根据_过滤器_的配置,_控制_物品流经过滤器",
+	"item.create.filter.tooltip.behaviour1": "根据_过滤器_的配置，_控制_物品流经过滤器",
 	"item.create.filter.tooltip.condition2": "当右键时",
 	"item.create.filter.tooltip.behaviour2": "打开_配置面板_",
 
 	"item.create.attribute_filter.tooltip": "属性过滤器",
 	"item.create.attribute_filter.tooltip.summary": "比起普通过滤器，_属性过滤器_可以根据不同物品的_属性_来进行过滤",
 	"item.create.attribute_filter.tooltip.condition1": "当处于_过滤器_槽中",
-	"item.create.attribute_filter.tooltip.behaviour1": "根据_过滤器的_配置,_控制_物品流经过滤器",
+	"item.create.attribute_filter.tooltip.behaviour1": "根据_过滤器的_配置，_控制_物品流经过滤器",
 	"item.create.attribute_filter.tooltip.condition2": "当右键时",
 	"item.create.attribute_filter.tooltip.behaviour2": "打开_配置面板_",
 
@@ -1354,7 +1354,7 @@
 	"item.create.empty_schematic.tooltip.summary": "可作为合成材料或在_蓝图桌_使用",
 
 	"item.create.schematic.tooltip": "蓝图",
-	"item.create.schematic.tooltip.summary": "可以放置在世界中的结构,根据需要放置全息图,并使用_蓝图加农炮_进行构建。",
+	"item.create.schematic.tooltip.summary": "可以放置在世界中的结构,根据需要放置全息图，并使用_蓝图加农炮_进行构建。",
 	"item.create.schematic.tooltip.condition1": "当全息图存在时",
 	"item.create.schematic.tooltip.behaviour1": "可以使用屏幕上的工具定位",
 	"item.create.schematic.tooltip.control1": "当潜行右键时",
@@ -1365,7 +1365,7 @@
 	"item.create.schematic_and_quill.tooltip.condition1": "第一步",
 	"item.create.schematic_and_quill.tooltip.behaviour1": "手持蓝图与右键旋转两个点",
 	"item.create.schematic_and_quill.tooltip.condition2": "第二步",
-	"item.create.schematic_and_quill.tooltip.behaviour2": "按住Ctrl鼠标滚轮选择选区大小,右键空白处保存。",
+	"item.create.schematic_and_quill.tooltip.behaviour2": "按住Ctrl鼠标滚轮选择选区大小，右键空白处保存。",
 	"item.create.schematic_and_quill.tooltip.control1": "右键",
 	"item.create.schematic_and_quill.tooltip.action1": "选取点/确认保存",
 	"item.create.schematic_and_quill.tooltip.control2": "按住Ctrl鼠标滚轮",
@@ -1374,7 +1374,7 @@
 	"item.create.schematic_and_quill.tooltip.action3": "_重置_并删除选区。",
 
 	"block.create.schematicannon.tooltip": "蓝图加农炮",
-	"block.create.schematicannon.tooltip.summary": "通过发射方块以在世界中重新构建已部署的_全息图_,使用相邻箱子中的物品及_火药_作为燃料。",
+	"block.create.schematicannon.tooltip.summary": "通过发射方块以在世界中重新构建已部署的_全息图_，使用相邻箱子中的物品及_火药_作为燃料。",
 	"block.create.schematicannon.tooltip.control1": "当右键时",
 	"block.create.schematicannon.tooltip.action1": "打开_gui界面_",
 
@@ -1390,7 +1390,7 @@
 	"block.create.cogwheel.tooltip.summary": "将_旋转动能_进行直线传递，或者传递到邻近的_齿轮_上",
 
 	"block.create.large_cogwheel.tooltip": "大齿轮",
-	"block.create.large_cogwheel.tooltip.summary": "大号齿轮传动结构,连接到_小号齿轮_时改变其_转速_。",
+	"block.create.large_cogwheel.tooltip.summary": "大号齿轮传动结构，连接到_小号齿轮_时改变其_转速_。",
 
 	"block.create.encased_shaft.tooltip": "加壳传动杆",
 	"block.create.encased_shaft.tooltip.summary": "将_旋转动能_进行直线传递，其方块体积使其在穿过墙体时更加_美观_。",
@@ -1419,9 +1419,9 @@
 	"block.create.adjustable_chain_gearshift.tooltip.behaviour1": "没有红石信号时，_链式传动箱组_中的_链式传动箱_将以相同的速度旋转。 红石信号拉满时，_链式传动箱组_中除自身以外的_链式传动箱_将以两倍的速度旋转。介于两者之间的任何结果都将使其速度提高1-2倍。",
 
 	"item.create.belt_connector.tooltip": "传送带",
-	"item.create.belt_connector.tooltip.summary": "用_传送带_连接两个_传动杆_,连接的传动杆将具有完全相同的转速和方向。传送带可以_传输实体_和_物品_。",
+	"item.create.belt_connector.tooltip.summary": "用_传送带_连接两个_传动杆_，连接的传动杆将具有完全相同的转速和方向。传送带可以_传输实体_和_物品_。",
 	"item.create.belt_connector.tooltip.control1": "当右键传动杆时",
-	"item.create.belt_connector.tooltip.action1": "选择传动杆作为传送带的传输点,选定的两个传动杆都必须相互_垂直_,_水平_或_对角平齐_。",
+	"item.create.belt_connector.tooltip.action1": "选择传动杆作为传送带的传输点,选定的两个传动杆都必须相互_垂直_，_水平_或_对角平齐_。",
 	"item.create.belt_connector.tooltip.control2": "当潜行右键时",
 	"item.create.belt_connector.tooltip.action2": "_重置_传送带的第一个选定位置",
 
@@ -1446,26 +1446,26 @@
 	"block.create.water_wheel.tooltip.summary": "从相邻的流动水中获得动力",
 
 	"block.create.encased_fan.tooltip": "鼓风机",
-	"block.create.encased_fan.tooltip.summary": "有多种用途,主要可以将_动力_和_风力_进行互相转换。",
+	"block.create.encased_fan.tooltip.summary": "有多种用途，主要可以将_动力_和_风力_进行互相转换。",
 	"block.create.encased_fan.tooltip.condition1": "当被红石信号激活后",
-	"block.create.encased_fan.tooltip.behaviour1": "可将鼓风机下方的_热能_（火， 岩浆等）转化成_动能_， 需要将鼓风机向下摆放",
+	"block.create.encased_fan.tooltip.behaviour1": "可将鼓风机下方的_热能_（火、岩浆等）转化成_动能_， 需要将鼓风机向下摆放",
 	"block.create.encased_fan.tooltip.condition2": "当旋转时",
 	"block.create.encased_fan.tooltip.behaviour2": "根据旋转方向_推动_或者_吸引_实体,强度和速度取决于给予的动力。",
-	"block.create.encased_fan.tooltip.condition3": "当气流通过火,水,岩浆时",
+	"block.create.encased_fan.tooltip.condition3": "当气流通过火、水、岩浆时",
 	"block.create.encased_fan.tooltip.behaviour3": "在_被吹出_的水，火，岩浆粒子中放置物品会获得相应产物(_建议配合jei查看_)。",
 
 	"block.create.nozzle.tooltip": "分散网",
-	"block.create.nozzle.tooltip.summary": "依附在鼓风机上,能够将鼓风机的风到_分散_各个方向。",
+	"block.create.nozzle.tooltip.summary": "依附在鼓风机上，能够将鼓风机的风到_分散_各个方向。",
 
 	"block.create.hand_crank.tooltip": "手摇曲柄",
-	"block.create.hand_crank.tooltip.summary": "一种简单的旋转能源,需要_人工转动_。",
+	"block.create.hand_crank.tooltip.summary": "一种简单的旋转能源，需要_人工转动_。",
 	"block.create.hand_crank.tooltip.condition1": "当使用时",
-	"block.create.hand_crank.tooltip.behaviour1": "向依附的结构提供动力,_潜行_时将会提供_反向_的旋转动力",
+	"block.create.hand_crank.tooltip.behaviour1": "向依附的结构提供动力，_潜行_时将会提供_反向_的旋转动力",
 
 	"block.create.cuckoo_clock.tooltip": "布谷鸟闹钟",
 	"block.create.cuckoo_clock.tooltip.summary": "精致的工艺品,能够记录时间",
 	"block.create.cuckoo_clock.tooltip.condition1": "当旋转时",
-	"block.create.cuckoo_clock.tooltip.behaviour1": "显示_当前时间_并且一天会咕咕_两次_.中午咕咕一次， 黄昏可以睡觉的时候咕咕一次 ",
+	"block.create.cuckoo_clock.tooltip.behaviour1": "显示_当前时间_并且一天会咕咕_两次_。中午咕咕一次， 黄昏可以睡觉的时候咕咕一次 ",
 
 	"block.create.turntable.tooltip": "转盘",
 	"block.create.turntable.tooltip.summary": "让旋转动力给你带来一场刺激的旋转风车体验。",
@@ -1492,7 +1492,7 @@
 	"block.create.mechanical_press.tooltip.behaviour3": "开始_压缩_配方中允许压缩的物品。",
 
 	"block.create.basin.tooltip": "工作盆",
-	"block.create.basin.tooltip.summary": "一种方便的_物品容器_,常常用于_辊压机_和_搅拌机_,可以被_红石比较器_检测",
+	"block.create.basin.tooltip.summary": "一种方便的_物品容器_，常常用于_辊压机_和_搅拌机_，可以被_红石比较器_检测",
 	"block.create.basin.tooltip.condition1": "自动输出",
 	"block.create.basin.tooltip.behaviour1": "当裸露的容器（例如传送带，其他的工作盆，贮物台等）位于工作盆的一侧下方时，它们将自动接收在工作盆中产出的任何物品/流体并输出。这对于自动化很有用。",
 
@@ -1530,14 +1530,14 @@
 	"block.create.furnace_engine.tooltip.behaviour1": "将会带动_相连_的_飞轮_(需要间隔一格),用高炉速度更快",
 
 	"block.create.flywheel.tooltip": "飞轮",
-	"block.create.flywheel.tooltip.summary": "一种大型的金属轮， 能将_熔炉引擎_提供的动能稳定化输出， 需要与_熔炉引擎_间隔一个方块",
+	"block.create.flywheel.tooltip.summary": "一种大型的金属轮， 能将_熔炉引擎_提供的动能稳定化输出，需要与_熔炉引擎_间隔一个方块",
 	"block.create.flywheel.tooltip.condition1": "当连接正在输出的_熔炉引擎_",
 	"block.create.flywheel.tooltip.behaviour1": "将会提供相应的_旋转动能_。",
 
 	"block.create.portable_storage_interface.tooltip": "移动存储接口",
 	"block.create.portable_storage_interface.tooltip.summary": "为动力活塞、装配矿车、旋转轴承、滑轮_等移动结构_设计的_物流接口_，_移动结构_和_固定结构_之间的物品交换站，两个接口会面时将_自动对接_，接口必须彼此面对且彼此隔开1-2个方块。",
 	"block.create.portable_storage_interface.tooltip.condition1": "装配在移动结构上时",
-	"block.create.portable_storage_interface.tooltip.behaviour1": "移动到能够满足与_固定结构_上的_移动式存储接口_对接的条件后,移动结构会_短暂地停下_，开始对接，并直接与_移动结构上的_存储容器_交互，进行物品的_输入输出_。",
+	"block.create.portable_storage_interface.tooltip.behaviour1": "移动到能够满足与_固定结构_上的_移动式存储接口_对接的条件后，移动结构会_短暂地停下_，开始对接，并直接与_移动结构上的_存储容器_交互，进行物品的_输入输出_。",
 	"block.create.portable_storage_interface.tooltip.condition2": "被红石激活时",
 	"block.create.portable_storage_interface.tooltip.behaviour2": "立即断开任何活动连接。",
 
@@ -1551,10 +1551,10 @@
 	"block.create.rotation_speed_controller.tooltip": "转速控制器",
 	"block.create.rotation_speed_controller.tooltip.summary": "一个可以变换所连接齿轮旋转速度的元件",
 	"block.create.rotation_speed_controller.tooltip.condition1": "当连接大齿轮时",
-	"block.create.rotation_speed_controller.tooltip.behaviour1": "将输入的旋转动能改变速度后,传递给连接的大齿轮,连接的大齿轮要放在上方。",
+	"block.create.rotation_speed_controller.tooltip.behaviour1": "将输入的旋转动能改变速度后，传递给连接的大齿轮，连接的大齿轮要放在上方。",
 
 	"block.create.mechanical_piston.tooltip": "动力活塞",
-	"block.create.mechanical_piston.tooltip.summary": "活塞的高级版本,使用_旋转动能_精确地移动其连接的方块,背面可放置活塞杆延长活塞范围,没有活塞杆将不会工作,使用_底盘_或者_粘液块_可以移动多行方块。",
+	"block.create.mechanical_piston.tooltip.summary": "活塞的高级版本，使用_旋转动能_精确地移动其连接的方块，背面可放置活塞杆延长活塞范围，没有活塞杆将不会工作,使用_底盘_或者_粘液块_可以移动多行方块。",
 	"block.create.mechanical_piston.tooltip.condition1": "推拉活塞时",
 	"block.create.mechanical_piston.tooltip.behaviour1": "活塞的_速度_和_方向_与所接受_转速_的_大小_以及_方向_相关。",
 
@@ -1584,12 +1584,12 @@
 	"block.create.clockwork_bearing.tooltip": "时钟轴承",
 	"block.create.clockwork_bearing.tooltip.summary": "一种高级的机械轴承,可以根据当前游戏内时间旋转两个不同的指针",
 	"block.create.clockwork_bearing.tooltip.condition1": "当旋转时",
-	"block.create.clockwork_bearing.tooltip.behaviour1": "旋转第一个连接的结构作为时针,第二个连接的结构作为分针",
+	"block.create.clockwork_bearing.tooltip.behaviour1": "旋转第一个连接的结构作为时针，第二个连接的结构作为分针",
 
 	"block.create.sequenced_gearshift.tooltip": "可编程齿轮箱",
 	"block.create.sequenced_gearshift.tooltip.summary": "一种可编程的组件，可以根据内部的指令改变旋转的_方向_，_速度_，以及_距离_。 此组件可以有效配合活塞和轴承等使用。最高可让其按_顺序_执行_5条指令_。条高速旋转时可能会变得不精确。",
 	"block.create.sequenced_gearshift.tooltip.condition1": "当给予红石信号时",
-	"block.create.sequenced_gearshift.tooltip.behaviour1": "在输入旋转动能的情况下,执行指令。",
+	"block.create.sequenced_gearshift.tooltip.behaviour1": "在输入旋转动能的情况下，执行指令。",
 	"block.create.sequenced_gearshift.tooltip.condition2": "当右键时",
 	"block.create.sequenced_gearshift.tooltip.behaviour2": "将打开配置_配置界面_",
 
@@ -1611,14 +1611,14 @@
 	"block.create.rope_pulley.tooltip": "绳索滑轮",
 	"block.create.rope_pulley.tooltip.summary": "移动绳索相连的结构。使用_底盘_或者_粘液块_来移动多行方块",
 	"block.create.rope_pulley.tooltip.condition1": "当旋转时",
-	"block.create.rope_pulley.tooltip.behaviour1": "根据输入的转速的大小以及方向,移动链接的结构。",
+	"block.create.rope_pulley.tooltip.behaviour1": "根据输入的转速的大小以及方向，移动链接的结构。",
 
 	"block.create.linear_chassis.tooltip": "机壳底盘",
 	"block.create.linear_chassis.tooltip.summary": "一种可配置的_底盘_。这种底盘可以将多个方块连接起来组合成_大型结构_",
 	"block.create.linear_chassis.tooltip.condition1": "被移动时",
 	"block.create.linear_chassis.tooltip.behaviour1": "移动所有_并排_的_机壳底盘_。如果底盘上涂了_粘液球_，那么其范围内一条直线的方块都会被_黏附移动_(详情见Ctrl)。",
 	"block.create.linear_chassis.tooltip.condition2": "当使用扳手时",
-	"block.create.linear_chassis.tooltip.behaviour2": "通过_鼠标滚轮_来配置连接的方块的范围.按住_Ctrl_时滚动滚轮可以同时配置相连的其他底盘。",
+	"block.create.linear_chassis.tooltip.behaviour2": "通过_鼠标滚轮_来配置连接的方块的范围。按住_Ctrl_时滚动滚轮可以同时配置相连的其他底盘。",
 	"block.create.linear_chassis.tooltip.control1": "当用粘液球右键时",
 	"block.create.linear_chassis.tooltip.action1": "变为_粘性机壳底盘_。所有工作范围内与其相连的方块会与其_一同移动_",
 
@@ -1652,7 +1652,7 @@
 	"block.create.mechanical_plough.tooltip.behaviour1": "可以打掉无碰撞体积的一些_附着方块_，比如火把和雪等。可以在不伤害实体的情况下移动它们。能像_锄头_一样翻土耕田。",
 
 	"block.create.mechanical_saw.tooltip": "动力切割机",
-	"block.create.mechanical_saw.tooltip.summary": "可以用于砍树,也可以用于切割方块，可以被_动力活塞_和_动力轴承_等带动",
+	"block.create.mechanical_saw.tooltip.summary": "可以用于砍树，也可以用于切割方块，可以被_动力活塞_和_动力轴承_等带动",
 	"block.create.mechanical_saw.tooltip.condition1": "当向上放置时",
 	"block.create.mechanical_saw.tooltip.behaviour1": "可以切割各种物品(建议配合jei查看)",
 	"block.create.mechanical_saw.tooltip.condition2": "当方向在水平面时",
@@ -1669,11 +1669,11 @@
 	"block.create.content_observer.tooltip.summary": "检测容器和传送带中过滤器匹配的物品。当观察到包含匹配的物品时，此组件将发出红石信号。当观察到的漏斗转移匹配的物品时，此组件将发出红石脉冲。",
 
 	"block.create.redstone_link.tooltip": "无限红石信号终端",
-	"block.create.redstone_link.tooltip.summary": "无线红石信号终端,可以使用任何物品编辑终端频道。虽然距离有限，但是也挺远的。",
+	"block.create.redstone_link.tooltip.summary": "无线红石信号终端，可以使用任何物品编辑终端频道。虽然距离有限，但是也挺远的。",
 	"block.create.redstone_link.tooltip.condition1": "当启用时",
 	"block.create.redstone_link.tooltip.behaviour1": "接收相同频道提供的红石信号。",
 	"block.create.redstone_link.tooltip.control1": "当手持方块右键方块时",
-	"block.create.redstone_link.tooltip.action1": "手持任意物品为其设置频道,可以组合两个物品。",
+	"block.create.redstone_link.tooltip.action1": "手持任意物品为其设置频道，可以组合两个物品。",
 	"block.create.redstone_link.tooltip.control2": "当潜行右键时",
 	"block.create.redstone_link.tooltip.action2": "在终端模式和接收模式之间切换。",
 
@@ -1692,7 +1692,7 @@
 	"block.create.redstone_contact.tooltip.behaviour2": "如果接触到其他信号发生器，使其发出红石信号。",
 
 	"block.create.adjustable_crate.tooltip": "可调节板条箱",
-	"block.create.adjustable_crate.tooltip.summary": "该箱子允许对其容量进行调整,最大可以容纳_16组_物品。",
+	"block.create.adjustable_crate.tooltip.summary": "该箱子允许对其容量进行调整，最大可以容纳_16组_物品。",
 	"block.create.adjustable_crate.tooltip.control1": "当右键方块时",
 	"block.create.adjustable_crate.tooltip.action1": "打开箱子",
 
@@ -1702,22 +1702,22 @@
 	"block.create.creative_crate.tooltip.behaviour1": "容器将会从虚空中提供_无限量_的标记物品，并且任何放置到容器中的物品都会被_送入虚空_",
 
 	"block.create.deployer.tooltip": "机械手",
-	"block.create.deployer.tooltip.summary": "它是一个_机械手_,将尽可能_模仿玩家_的行为,也能将方块从容器中取出并_放置_。可以设置_白名单_。",
+	"block.create.deployer.tooltip.summary": "它是一个_机械手_，将尽可能_模仿玩家_的行为，也能将方块从容器中取出并_放置_。可以设置_白名单_。",
 	"block.create.deployer.tooltip.condition1": "被供能时",
 	"block.create.deployer.tooltip.behaviour1": "机械手可以最多伸长_两个方块_的距离",
 	"block.create.deployer.tooltip.condition2": "当使用扳手时",
-	"block.create.deployer.tooltip.behaviour2": "将会启用拳头模式,在拳头模式之下,机械臂将会试图使用手中的物品_破坏方块_,或者_攻击实体_。",
+	"block.create.deployer.tooltip.behaviour2": "将会启用拳头模式,在拳头模式之下，机械臂将会试图使用手中的物品_破坏方块_，或者_攻击实体_。",
 	"block.create.deployer.tooltip.condition3": "过滤器指定时",
 	"block.create.deployer.tooltip.behaviour3": "除非保留的物品与过滤器匹配，否则机械手将不会激活。 不匹配的物品无法插入；无法提取与过滤器匹配的保留物品。",
 
 	"block.create.brass_casing.tooltip": "黄铜机壳",
-	"block.create.brass_casing.tooltip.summary": "一种坚固的机壳,有多种用处。",
+	"block.create.brass_casing.tooltip.summary": "一种坚固的机壳，有多种用处。",
 
 	"block.create.pulse_repeater.tooltip": "可调节脉冲中继器",
-	"block.create.pulse_repeater.tooltip.summary": "一个简单的电路元件,将通过的红石信号变为1tick。",
+	"block.create.pulse_repeater.tooltip.summary": "一个简单的电路元件，将通过的红石信号变为1tick。",
 
 	"block.create.adjustable_repeater.tooltip": "可调节中继器",
-	"block.create.adjustable_repeater.tooltip.summary": "高级中继器,最大可设置30分钟延迟",
+	"block.create.adjustable_repeater.tooltip.summary": "高级中继器，最大可设置30分钟延迟",
 
 	"block.create.adjustable_pulse_repeater.tooltip": "可调节脉冲中继器",
 	"block.create.adjustable_pulse_repeater.tooltip.summary": "一种单次1tick的红石脉冲器，可以调节延时至30min",
@@ -1729,7 +1729,7 @@
 	"block.create.powered_toggle_latch.tooltip.summary": "一种拉杆，在红石电路中可以用作t触发器。",
 
 	"block.create.powered_latch.tooltip": "锁存器",
-	"block.create.powered_latch.tooltip.summary": "一种拉杆,在红石电路中用作锁存器,从后方输入将会启用这个拉杆,从侧边输入将会重置这个拉杆。",
+	"block.create.powered_latch.tooltip.summary": "一种拉杆，在红石电路中用作锁存器，从后方输入将会启用这个拉杆，从侧边输入将会重置这个拉杆。",
 
 	"block.create.controller_rail.tooltip": "控制铁轨",
 	"block.create.controller_rail.tooltip.summary": "单向电动导轨，能够精细控制矿车的移动速度。",
@@ -1737,12 +1737,12 @@
 	"block.create.controller_rail.tooltip.behaviour1": "根据信号强度加速或减速经过的矿车。将红石强度传播到相邻的控制铁轨。",
 
 	"block.create.speedometer.tooltip": "速度表",
-	"block.create.speedometer.tooltip.summary": "测量并展示连接网络的旋转速度,支持使用红石比较器",
+	"block.create.speedometer.tooltip.summary": "测量并展示连接网络的旋转速度，支持使用红石比较器",
 	"block.create.speedometer.tooltip.condition1": "接入动力时",
-	"block.create.speedometer.tooltip.behaviour1": "将会用颜色展示速度的大小,绿-慢、蓝-中、紫-快。",
+	"block.create.speedometer.tooltip.behaviour1": "将会用颜色展示速度的大小，绿-慢、蓝-中、紫-快。",
 
 	"block.create.stressometer.tooltip": "应力表",
-	"block.create.stressometer.tooltip.summary": "测量并展示连接网络的应力值,支持红石比较器",
+	"block.create.stressometer.tooltip.summary": "测量并展示连接网络的应力值，支持红石比较器",
 	"block.create.stressometer.tooltip.condition1": "接入动力时",
 	"block.create.stressometer.tooltip.behaviour1": "将会用颜色展示承受的应力。如果网络过载则会瘫痪，必须减少机器或者增加动力",
 
@@ -1778,13 +1778,13 @@
 	"create.tooltip.wip": "WIP",
 	"create.tooltip.workInProgress": "工作进行中!",
 	"create.tooltip.randomWipDescription0": "别把这玩意给熊孩子",
-	"create.tooltip.randomWipDescription1": "每一次使用这个物品都会伤害一只无辜的小猫， 所以没有使用就没有伤害。别！用！",
+	"create.tooltip.randomWipDescription1": "每一次使用这个物品都会伤害一只无辜的小猫，所以没有使用就没有伤害。别！用！",
 	"create.tooltip.randomWipDescription2": "使用后果自负",
-	"create.tooltip.randomWipDescription3": "（摇手指）这可不是你在找的物品， 走开吧",
+	"create.tooltip.randomWipDescription3": "（摇手指）这可不是你在找的物品，走开吧",
 	"create.tooltip.randomWipDescription4": "自爆模式已启动，10，9，8..。",
-	"create.tooltip.randomWipDescription5": "这玩意真的没用， 我骗你干嘛",
-	"create.tooltip.randomWipDescription6": "如果你使用这个东西， 那么本作者与它造成的任何后果没有责任。",
-	"create.tooltip.randomWipDescription7": "这玩意不是给你用的， 换个吧",
+	"create.tooltip.randomWipDescription5": "这玩意真的没用，我骗你干嘛",
+	"create.tooltip.randomWipDescription6": "如果你使用这个东西，那么本作者与它造成的任何后果没有责任。",
+	"create.tooltip.randomWipDescription7": "这玩意不是给你用的，换个吧",
 	"create.tooltip.randomWipDescription8": "试试就逝世",
 
 	"_": "Thank you for translating Create!"

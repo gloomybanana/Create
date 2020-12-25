@@ -1146,10 +1146,10 @@
 	"block.create.brass_encased_shaft.tooltip.summary": "_创造模式_物品。用黄铜机壳包裹世界中的传动杆，机壳不会被消耗。",
 
 	"block.create.wooden_bracket.tooltip": "木质支架",
-	"block.create.wooden_bracket.tooltip.summary": "舒适的木质材料，用于_装饰_传动杆_，_齿轮_和_管道_。",
+	"block.create.wooden_bracket.tooltip.summary": "舒适的木质材料，用于装饰_传动杆_，_齿轮_和_管道_。",
 
 	"block.create.metal_bracket.tooltip": "金属支架",
-	"block.create.metal_bracket.tooltip.summary": "坚固的工业材料，用于_装饰_传动杆_，_齿轮_和_管道_。",
+	"block.create.metal_bracket.tooltip.summary": "坚固的工业材料，用于装饰_传动杆_，_齿轮_和_管道_。",
 
 	"block.create.andesite_casing.tooltip": "安山机壳",
 	"block.create.andesite_casing.tooltip.summary": "具有多种用途的简单机壳，可用于加固并装饰_传动杆_，_传送带_",
@@ -1223,7 +1223,7 @@
 
 	"item.create.empty_blaze_burner.tooltip": "空的烈焰人燃烧室",
 	"item.create.empty_blaze_burner.tooltip.summary": "你火热的朋友的一个小小的铁质的家。我相信你会好好利用他们的！",
-	"item.create.empty_blaze_burner.tooltip.condition1": "当对着_烈焰人_或者_烈焰人刷怪笼_右键使用时",
+	"item.create.empty_blaze_burner.tooltip.condition1": "当对着烈焰人或烈焰人刷怪笼使用时",
 	"item.create.empty_blaze_burner.tooltip.behaviour1": "即可_捕获_烈焰人",
 
 	"block.create.fluid_pipe.tooltip": "流体管道",

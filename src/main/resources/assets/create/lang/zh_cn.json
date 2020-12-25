@@ -1449,7 +1449,7 @@
 	"block.create.encased_fan.tooltip.summary": "有多种用途，主要可以将_动力_和_风力_进行互相转换。",
 	"block.create.encased_fan.tooltip.condition1": "当被红石信号激活后",
 	"block.create.encased_fan.tooltip.behaviour1": "可将鼓风机下方的_热能_（火、岩浆等）转化成_动能_，需要将鼓风机向下摆放",
-	"block.create.encased_fan.tooltip.condition2": "当旋转时",
+	"block.create.encased_fan.tooltip.condition2": "接入动力时",
 	"block.create.encased_fan.tooltip.behaviour2": "根据旋转方向_推动_或者_吸引_实体，强度和速度取决于给予的动力。",
 	"block.create.encased_fan.tooltip.condition3": "当气流通过火、水、岩浆时",
 	"block.create.encased_fan.tooltip.behaviour3": "在_被吹出_的水，火，岩浆粒子中放置物品会获得相应产物(_建议配合jei查看_)。",
@@ -1464,7 +1464,7 @@
 
 	"block.create.cuckoo_clock.tooltip": "布谷鸟闹钟",
 	"block.create.cuckoo_clock.tooltip.summary": "精致的工艺品，能够记录时间",
-	"block.create.cuckoo_clock.tooltip.condition1": "当旋转时",
+	"block.create.cuckoo_clock.tooltip.condition1": "接入动力时",
 	"block.create.cuckoo_clock.tooltip.behaviour1": "显示_当前时间_并且一天会咕咕_两次_。中午咕咕一次，黄昏可以睡觉的时候咕咕一次 ",
 
 	"block.create.turntable.tooltip": "转盘",
@@ -1515,14 +1515,14 @@
 
 	"block.create.mechanical_crafter.tooltip": "动力合成器",
 	"block.create.mechanical_crafter.tooltip.summary": "一种依靠_动能_的_自动_合成台。根据想要合成的物品的_合成表尺寸_来摆放_相应数量_的动力合成器，并且用扳手调整物品在合成器里的_传动方向_以让他们收束在一起合成并输出",
-	"block.create.mechanical_crafter.tooltip.condition1": "当旋转时",
-	"block.create.mechanical_crafter.tooltip.behaviour1": "当机器中_所有_的物品槽有物品时，将会启动所有的制造机来工作。",
+	"block.create.mechanical_crafter.tooltip.condition1": "接入动力时",
+	"block.create.mechanical_crafter.tooltip.behaviour1": "当机器中_所有_的物品槽有物品时，将会启动所有的合成器来工作。",
 	"block.create.mechanical_crafter.tooltip.condition2": "被红石激活时",
 	"block.create.mechanical_crafter.tooltip.behaviour2": "强制启动当前网格中所有给定的_材料_的_合成_",
 	"block.create.mechanical_crafter.tooltip.control1": "当在机器前方使用扳手时",
 	"block.create.mechanical_crafter.tooltip.action1": "将会改变物品移动的方向。要合成一个物品，所有原料必须被_移动到一起_，并且在阵列的_外缘_被弹出机器",
 	"block.create.mechanical_crafter.tooltip.control2": "当侧方或者后方使用扳手时",
-	"block.create.mechanical_crafter.tooltip.action2": "连接相邻的制造机的物品栏，这样_相同_的物品就会自动进入所有相互连接的制造机",
+	"block.create.mechanical_crafter.tooltip.action2": "连接相邻的合成器的物品栏，这样_相同_的物品就会自动进入所有相互连接的合成器",
 
 	"block.create.furnace_engine.tooltip": "熔炉引擎",
 	"block.create.furnace_engine.tooltip.summary": "一种强力的_旋转动能_的来源，但是需要_正在工作_的_熔炉_(三种熔炉都可以)",
@@ -1565,7 +1565,7 @@
 
 	"block.create.mechanical_bearing.tooltip": "动力轴承",
 	"block.create.mechanical_bearing.tooltip.summary": "接入动力，根据动力方向旋转，用于建造大型的旋转结构。",
-	"block.create.mechanical_bearing.tooltip.condition1": "当旋转时",
+	"block.create.mechanical_bearing.tooltip.condition1": "接入动力时",
 	"block.create.mechanical_bearing.tooltip.behaviour1": "使用_粘液块_或者_底盘_来驱动更多方块",
 
 	"block.create.windmill_bearing.tooltip": "风车轴承",
@@ -1583,7 +1583,7 @@
 
 	"block.create.clockwork_bearing.tooltip": "时钟轴承",
 	"block.create.clockwork_bearing.tooltip.summary": "一种高级的机械轴承，可以根据当前游戏内时间旋转两个不同的指针",
-	"block.create.clockwork_bearing.tooltip.condition1": "当旋转时",
+	"block.create.clockwork_bearing.tooltip.condition1": "接入动力时",
 	"block.create.clockwork_bearing.tooltip.behaviour1": "旋转第一个连接的结构作为时针，第二个连接的结构作为分针",
 
 	"block.create.sequenced_gearshift.tooltip": "可编程齿轮箱",
@@ -1610,7 +1610,7 @@
 
 	"block.create.rope_pulley.tooltip": "绳索滑轮",
 	"block.create.rope_pulley.tooltip.summary": "移动绳索相连的结构。使用_底盘_或者_粘液块_来移动多行方块",
-	"block.create.rope_pulley.tooltip.condition1": "当旋转时",
+	"block.create.rope_pulley.tooltip.condition1": "接入动力时",
 	"block.create.rope_pulley.tooltip.behaviour1": "根据输入的转速的大小以及方向，移动链接的结构。",
 
 	"block.create.linear_chassis.tooltip": "机壳底盘",
@@ -1627,7 +1627,7 @@
 
 	"block.create.radial_chassis.tooltip": "旋转底盘",
 	"block.create.radial_chassis.tooltip.summary": "一种可配置的底盘。这种底盘可以将多个方块连接起来组合成_大型结构_",
-	"block.create.radial_chassis.tooltip.condition1": "当旋转时",
+	"block.create.radial_chassis.tooltip.condition1": "当被旋转时",
 	"block.create.radial_chassis.tooltip.behaviour1": "所有_竖排_的_旋转底盘_会互相粘连移动，并且每个涂了_粘液球_的底盘都会带动其工作半径内的方块(详情见Ctrl)。",
 	"block.create.radial_chassis.tooltip.condition2": "当使用扳手时",
 	"block.create.radial_chassis.tooltip.behaviour2": "配置连接的方块的半径。按住_Ctrl_可以同时配置相连的其他底盘。",
@@ -1773,7 +1773,7 @@
 	"item.create.minecart_coupling.tooltip.behaviour1": "将两个矿车耦合在一起，在移动时将它们保持恒定的距离。",
 
 	"item.create.crafter_slot_cover.tooltip": "合成器盖板",
-	"item.create.crafter_slot_cover.tooltip.summary": "用来标记_机械制造机_以不放入物品。在制造与桶类似的斜向合成表时非常有用。",
+	"item.create.crafter_slot_cover.tooltip.summary": "用来标记_动力合成器_以不放入物品。在制造与桶类似的斜向合成表时非常有用。",
 
 	"create.tooltip.wip": "WIP",
 	"create.tooltip.workInProgress": "这东西还没有做完！",

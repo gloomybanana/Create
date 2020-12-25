@@ -427,7 +427,7 @@
 	"item.create.brass_ingot": "黄铜锭",
 	"item.create.brass_nugget": "黄铜粒",
 	"item.create.brass_sheet": "黄铜板",
-	"item.create.builders_tea": "开发者的茶",
+	"item.create.builders_tea": "建筑工茶饮",
 	"item.create.chest_minecart_contraption": "装配过的动力矿车",
 	"item.create.chocolate_bucket": "巧克力桶",
 	"item.create.chromatic_compound": "异彩化合物",
@@ -1452,7 +1452,7 @@
 	"block.create.encased_fan.tooltip.condition2": "接入动力时",
 	"block.create.encased_fan.tooltip.behaviour2": "根据旋转方向_推动_或者_吸引_实体，强度和速度取决于给予的动力。",
 	"block.create.encased_fan.tooltip.condition3": "当气流通过火、水、熔岩时",
-	"block.create.encased_fan.tooltip.behaviour3": "在_被吹出_的水，火，熔岩粒子中投入物品时会获得相应产物(_建议配合jei查看_)。",
+	"block.create.encased_fan.tooltip.behaviour3": "在_被吹出_的水，火，熔岩粒子中投入物品会获得相应产物(_建议配合jei查看_)。",
 
 	"block.create.nozzle.tooltip": "分散网",
 	"block.create.nozzle.tooltip.summary": "依附在鼓风机上，能够将鼓风机的效果_分散_各个方向。",
@@ -1758,8 +1758,8 @@
 	"item.create.super_glue.tooltip.condition2": "在副手上时",
 	"item.create.super_glue.tooltip.behaviour2": "主手放置的方块会被_直接_黏在所放置的方块上",
 
-	"item.create.builders_tea.tooltip": "开发者的茶",
-	"item.create.builders_tea.tooltip.summary": "完美的饮品开始精神满满的一天。",
+	"item.create.builders_tea.tooltip": "建筑工茶饮",
+	"item.create.builders_tea.tooltip.summary": "完美的饮品开始精神满满的一天。回复_饥饿值_并获得_急迫_效果",
 
 	"item.create.refined_radiance.tooltip": "光辉石",
 	"item.create.refined_radiance.tooltip.summary": "一种用_光辉_锻造的化合物材料。",

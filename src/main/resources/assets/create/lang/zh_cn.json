@@ -1492,9 +1492,9 @@
 	"block.create.mechanical_press.tooltip.behaviour3": "开始_压缩_配方中允许压缩的物品。",
 
 	"block.create.basin.tooltip": "工作盆",
-	"block.create.basin.tooltip.summary": "一种方便的_物品容器_，常常用于_辊压机_和_搅拌机_，可以被_红石比较器_检测",
+	"block.create.basin.tooltip.summary": "一种方便的_物品容器_，常常与_辊压机_和_搅拌机_配合使用，可以被_红石比较器_检测",
 	"block.create.basin.tooltip.condition1": "自动输出",
-	"block.create.basin.tooltip.behaviour1": "当裸露的容器（例如传送带，其他的工作盆，置物台等）位于工作盆的一侧下方时，它们将自动接收在工作盆中产出的任何物品/流体并输出。这对于自动化很有用。",
+	"block.create.basin.tooltip.behaviour1": "当裸露的容器（例如传送带，其他的工作盆，置物台等）位于工作盆的一侧下方时，它们将自动接收在工作盆中产出的任何物品/流体并输出。这对自动化很有帮助。",
 
 	"block.create.blaze_burner.tooltip": "烈焰人燃烧室",
 	"block.create.blaze_burner.tooltip.summary": "一个用于加热工作盆的方块，由烈焰人来驱动。",
@@ -1514,7 +1514,7 @@
 	"block.create.mechanical_mixer.tooltip.action1": "停止搅拌，试用于紧急时刻！",
 
 	"block.create.mechanical_crafter.tooltip": "动力合成器",
-	"block.create.mechanical_crafter.tooltip.summary": "一种依靠_动能_的_自动_合成台。根据想要合成物品的_合成表_来摆放_相应数量_的机械制造机，并且用扳手调整物品在制造机里的_传动方向_以让他们合在一起后被输出",
+	"block.create.mechanical_crafter.tooltip.summary": "一种依靠_动能_的_自动_合成台。根据想要合成的物品的_合成表尺寸_来摆放_相应数量_的动力合成器，并且用扳手调整物品在合成器里的_传动方向_以让他们收束在一起合成并输出",
 	"block.create.mechanical_crafter.tooltip.condition1": "当旋转时",
 	"block.create.mechanical_crafter.tooltip.behaviour1": "当机器中_所有_的物品槽有物品时，将会启动所有的制造机来工作。",
 	"block.create.mechanical_crafter.tooltip.condition2": "被红石激活时",

@@ -1452,7 +1452,7 @@
 	"block.create.encased_fan.tooltip.condition2": "接入动力时",
 	"block.create.encased_fan.tooltip.behaviour2": "根据旋转方向_推动_或者_吸引_实体，强度和速度取决于给予的动力。",
 	"block.create.encased_fan.tooltip.condition3": "当气流通过火、水、熔岩时",
-	"block.create.encased_fan.tooltip.behaviour3": "在_被吹出_的水，火，熔岩粒子中放置物品会获得相应产物(_建议配合jei查看_)。",
+	"block.create.encased_fan.tooltip.behaviour3": "在_被吹出_的水，火，熔岩粒子中投入物品时会获得相应产物(_建议配合jei查看_)。",
 
 	"block.create.nozzle.tooltip": "分散网",
 	"block.create.nozzle.tooltip.summary": "依附在鼓风机上，能够将鼓风机的效果_分散_各个方向。",
